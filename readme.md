@@ -11,7 +11,7 @@ Este es mi primer repositorio en GitHub, creado como parte de mi curso de progra
 ## ⚙ Tecnologías que usaré
 
 - HTML5
-- CSS3
+- CSS
 - JavaScript
 - PHP
 - MySQL
